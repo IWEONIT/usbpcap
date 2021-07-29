@@ -1,0 +1,17 @@
+
+*.sdf
+
+Win8Debug
+VistaDebug
+
+USBPcapDriver/Win8Debug
+USBPcapDriver/VistaDebug
+
+USBPcapCMD/Win8Debug
+USBPcapCMD/VistaDebug
+
+dirs-Package/Win8Debug
+dirs-Package/VistaDebug
+*.opensdf
+*.props
+*.log

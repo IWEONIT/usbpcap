@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2013-2018 Tomasz Moñ <desowin@gmail.com>
+ * Copyright (c) 2013-2018 Tomasz Mo?<desowin@gmail.com>
  *
  * SPDX-License-Identifier: BSD-2-Clause
  */
